@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AquaList>
+  <Item>
+    <Id>1</Id>
+    <Name>Blue Drop</Name>
+    <Image>assets/blue-drop.jpg</Image>
+  </Item>
+  <Item>
+    <Id>2</Id>
+    <Name>Ocean Sparkle</Name>
+    <Image>assets/ocean-sparkle.png</Image>
+  </Item>
+</AquaList>
